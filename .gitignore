@@ -1,3 +1,6 @@
 _site
+.bundle
+vendor
+.gitignore.*
 .sass-cache
 .jekyll-metadata

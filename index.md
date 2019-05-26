@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Glad you could make it
 ---
 
-# Glad you could make it
+
 Thanks for stopping by. This is the web site for
 William O'Neill. 
 
