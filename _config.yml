@@ -25,10 +25,13 @@ github_username:  williamoneill
 
 # Build settings
 markdown: kramdown
-#theme: 'minima'
-theme: minimal-mistakes-jekyll
+theme: 'minima'
+#remote_theme: "mmistakes/minimal-mistakes@4.16.3"
 plugins:
   - jekyll-feed
+#  - jekyll-include-cache
+
+minimal_mistakes_skin: "dark"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

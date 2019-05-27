@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "I got off my butt to create a personal site"
-date:   2019-05-26 12:11:33 -0600
+title: "I got off my butt to create a personal site"
+date: 2019-05-26 12:11:33 -0600
 ---
 I've been heads-down on my startup for the last few years
 and I've done a bad job maintaining my social presence. I hope

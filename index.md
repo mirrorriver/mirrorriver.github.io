@@ -3,12 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Glad you could make it
+
 ---
 
 
-Thanks for stopping by. This is the web site for
-William O'Neill. 
+Thanks for stopping by and I'm glad you could make it. 
 
 In my day job, I'm the co-founder and VP of Engineering for Quiq, a great startup in Bozeman, MT.
 I love what I do and I'm blessed to be a part of this amazing company. Best. Job. Ever. I'll stop talking about
