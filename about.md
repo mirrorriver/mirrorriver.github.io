@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About 
 permalink: /about/
 ---
@@ -12,6 +12,7 @@ Besides this site, you can scrape up a bit about me on the web.
 * New Twitter handle: [@williamwoneill](https://twitter.com/williamwoneill) (I retired the old one).
 * You can [check out my Fakebook profile](https://www.facebook.com/williamwoneill) but I'm not that active over there.
 
+<!--
 ## Thoughts on Management
 There is more to this than what follows, but my guiding stars are:
 * People are the difference. Hire driven people who love to work in a high trust, high accountability environment. People need to know they
@@ -20,7 +21,7 @@ people will be harder on themselves than you ever could be when they fail. You d
 * Fail forward: Learn from failures in a no-blame culture. If you are not failing, you are not pushing hard enough.
 * Be a servant leader
 * Hire smart people, give them clear direction, and get out of the way (I forgot where I heard this)
-
+-->
 
 
 ## Career
@@ -32,7 +33,7 @@ who will ever read this, but in case you are curious to learn more about me, ple
 
 ### Love of Computing
 Coding has been my lifelong passion. I started writing code on a Commodore 64 and playing around on an Apple IIe in the mid-80s.
-I started my computer science degree in 1995 and graduated in 2000 with a 3.97 GPA.
+I started my computer science degree in 1995 and graduated in 2000.
 
 During college, I took a 9-month internship with Extended Systems where I worked on a database server written in C. I had some fantastic mentors early in my career who helped me understand how to write elegant, scalable, performant code, that is well tested and well engineered. This carried forward through college and in to my professional career.
 
