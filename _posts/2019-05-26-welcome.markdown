@@ -1,12 +1,10 @@
 ---
 layout: default
-title: "Life is moving Quiq-ly"
-date: 2019-05-26 12:11:33 -0600
+title: "Quiq Series B Raised!"
+date: 2019-07-25 12:11:33 -0600
 ---
-I've been heads-down on my startup, Quiq, for the last few years
-and I've done a bad job maintaining my social presence. I hope
-to change that with this site.
+I'm really excited to announce that Quiq raised $12.5M in our Series B led by Foundry Group with participation from Teamworthy Ventures, Venrock, and Next Frontier Capital. We have an amazing group of investors and I'm so excited to see what the next few years bring. 
 
-Things are rocking at Quiq. We will be 
+
 
 
