@@ -1,43 +1,60 @@
 body{
-    font-family: 'Lato', 'Merriweather', Georgia, 'Times New Roman', Times, serif, sans-serif;
-    color: #333;
+    font-family: 'Crimson Text', 'Merriweather', Georgia, 'Times New Roman', Times, serif;;
+    color: #000;
     line-height: 1.5;
-    font-size:100%;
-
-    max-width: 40em;
+    font-size:120%;
+    max-width: 36em;
     margin:auto;
-    background-color: #f4f4f4;
+    background-color: #fff;
 
     a{
-        color: #555;
+        color: #333;
         text-decoration: none;
-        border-bottom: 1px solid #ccc;
+        border-bottom: 1px solid #ddd;
     }
     
     a:hover{
-        border-bottom: 3px solid #999;
+        border-bottom: 3px solid #ddd;
     }
 }
 
+@media screen and (max-width: 600px) {
+    body { 
+        font-size: 90%;
+    }
+  }
+
 h1{
-    font-size: 2em;
+    font-size: 2.2em;
+    color:#7f7f93;
+}
+
+h2{
+    font-size: 1.7em;
+    color: #7f7f93;
+}
+
+h3{
+    font-size: 1.3em;
+    font-style: italic;
+    color: #7f7f93;
 }
 
 nav{
     span{
         margin: 0em 0.5em;
     }
-
+    padding-left: 10px;
 }
 
 .body-div{
     background-color: #fff;
-    padding: 1.4em;
+    padding: 0.7em;
 }
 
 .body-nav{
     padding: 0.5em 0em;
-    background-color: #aaaaaa;
+    background-color: #aaa;
 
     a{
         color: #fff;
@@ -50,15 +67,15 @@ nav{
 
 .main-header{
     padding: 0.5em 0em; 
-    font-size: 2em;
-    color: #999;   
+    font-size: 2.5em;
+    color: #7f7f93;   
     text-align: right;
 }
 
 .footer-div{
+    border-top: 1px solid #ccc;
     padding: 1em 1.5em 3em 1.5em;
-    font-size: 0.9em;
-    color: #555;
+    font-size: 0.8em;
 
 }
 

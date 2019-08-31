@@ -10,16 +10,22 @@ title: Home
 
 
 
-Thanks for stopping by and I'm glad you could make it. This is the primary web site for William O'Neill. You can learn more about me on the [about page](/about/).
-
-## Posts
-
-<ul>
-  {% for post in site.posts %}
-    
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    
-      
-   
-  {% endfor %}
-</ul>
+<div class="listing">
+    {% for post in site.posts %}
+    <article> 
+        <header class="entry-header">
+            <h2 class="entry-title">
+            <!-- a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a -->
+            {{ post.title }}
+            </h2>
+            <time class="published" datetime="{{ post.date }}" pubdate="">
+            <!-- a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: '%B %d, %Y' }}</a -->
+            {{ post.date | date: '%B %d, %Y' }}
+            </time>
+        </header>
+        <div class="entry-content">
+            {{ post.content }}
+        </div>
+    </article>
+    {% endfor %}
+</div>
